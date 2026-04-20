@@ -1,0 +1,4 @@
+WIDTH = 750
+HEIGHT = 750
+
+FPS = 60
